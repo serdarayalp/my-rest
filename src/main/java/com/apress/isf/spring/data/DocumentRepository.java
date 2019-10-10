@@ -15,10 +15,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author Felipe Gutierrez
- *
- */
 @Repository("documentDAO")
 public class DocumentRepository implements DocumentDAO {
 

@@ -41,7 +41,6 @@ dependencies {
 
     testCompile 'junit:junit:4.11'
     testCompile 'org.springframework:spring-test:4.0.5.RELEASE'
-
 }
 
 test {

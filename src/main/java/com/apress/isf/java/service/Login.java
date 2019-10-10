@@ -1,6 +1,3 @@
-/**
- *
- */
 package com.apress.isf.java.service;
 
 public interface Login {

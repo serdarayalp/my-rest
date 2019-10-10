@@ -1,6 +1,3 @@
-/**
- *
- */
 package com.apress.isf.java.model;
 
 import java.util.ArrayList;

@@ -1,6 +1,3 @@
-/**
- *
- */
 package com.apress.isf.spring.web;
 
 import com.apress.isf.spring.data.DocumentDAO;

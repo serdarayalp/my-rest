@@ -1,6 +1,3 @@
-/**
- *
- */
 package com.apress.isf.spring.service;
 
 import com.apress.isf.java.model.Document;

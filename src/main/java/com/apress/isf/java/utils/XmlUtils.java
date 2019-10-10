@@ -1,6 +1,3 @@
-/**
- *
- */
 package com.apress.isf.java.utils;
 
 import com.thoughtworks.xstream.XStream;
